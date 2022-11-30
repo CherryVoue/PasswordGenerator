@@ -1,3 +1,5 @@
+#  TODO: ValueError handling, min length check
+
 import string
 import random
 
